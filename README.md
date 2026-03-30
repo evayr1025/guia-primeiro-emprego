@@ -116,12 +116,6 @@ facilitar esse processo de forma simples e direta
 2. Aplique as dicas no seu dia a dia
 3. Atualize seu currículo
 4. Comece a se candidatar para vagas
-   
----
-
-## Autor 
-
- Projeto desenvolvido por **Evair Rodrigues**
 
 ---
 
